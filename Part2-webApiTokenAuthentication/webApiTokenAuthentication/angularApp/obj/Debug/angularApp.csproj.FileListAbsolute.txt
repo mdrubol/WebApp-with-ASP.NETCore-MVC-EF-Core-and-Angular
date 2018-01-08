@@ -1,0 +1,12 @@
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\bin\angularApp.dll.config
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\bin\angularApp.dll
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\bin\angularApp.pdb
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.csprojResolveAssemblyReference.cache
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.dll
+D:\Experiment\MyBlogs\MVC\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.pdb
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\bin\angularApp.dll.config
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\bin\angularApp.dll
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\bin\angularApp.pdb
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.csprojResolveAssemblyReference.cache
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.dll
+C:\Users\rubol\Desktop\NewClientPortal\Part2-webApiTokenAuthentication\webApiTokenAuthentication\angularApp\obj\Debug\angularApp.pdb
